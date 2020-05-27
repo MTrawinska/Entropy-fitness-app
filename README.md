@@ -23,19 +23,19 @@ według podziału na użytkownika
 
 ### 'cardio bunny' -  trening biegowy >> zapis do bazy
 - pogoda Warszawa (API weatherdata)
-- ocena treningu (REST Django > serializer)
+- ocena treningu (REST Django > serializer>> JSON)
 
 ### znizka email
 - podanie adresu email oraz wyslanie bonu zniżkowego 'on demand'
 
 ### 'gentle reminder'
-- przypomnienie o powrocie do aplikacji (crone)
+- przypomnienie o powrocie do aplikacji (crone email)
 
 ### wersja hiszpanska 
-(gettext)
+
 
 ### Requirements: 
-Vanilla Js, CSS3, HTML5, Django2.2.7, Python 3.5
+Vanilla Js es6, CSS3, HTML5, Django2.2.7, Python 3.5
 
 ### Schemas
 
