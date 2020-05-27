@@ -7,31 +7,31 @@ Informacja o skladzie posiłków oraz aktyności fizycznej z wyliczeniem bilansu
 
 ## CEL PROJEKTU
 
-* zarządzanie kontem użytkownika >> zapis do bazy
+### zarządzanie kontem użytkownika >> zapis do bazy
 - podzial wg planu fitnesowego (heavy user/ light user/ normal)
 - indykatory (BMI/ AMR/ BMR/ WHR)
 
-* śledzenie wpisywanych kcal (dieta oraz aktywność fizyczna) >> zapis do bazy
+### śledzenie wpisywanych kcal (dieta oraz aktywność fizyczna) >> zapis do bazy
 - informacje o kaloriach w posilku (API us gov)
 - kompozycja posilkow porcja
 - informacje o wydatku energtycznym (scrap Harvard edu)
 - plan fitnes wydatek energetyczny
 
-* weryfikacja bilansu kalorycznego
+### weryfikacja bilansu kalorycznego
 - zliczenie przyjętych oraz spalonych kalorii w danym momencie wraz z przypisanymi przeliczeniami zmiany wagi
 według podziału na użytkownika
 
-* 'cardio bunny' -  trening biegowy >> zapis do bazy
+### 'cardio bunny' -  trening biegowy >> zapis do bazy
 - pogoda Warszawa (API weatherdata)
 - ocena treningu (REST Django > serializer)
 
-* znizka email
+### znizka email
 - podanie adresu email oraz wyslanie bonu zniżkowego 'on demand'
 
-* 'gentle reminder'
+### 'gentle reminder'
 - przypomnienie o powrocie do aplikacji (crone)
 
-* wersja hiszpanska 
+### wersja hiszpanska 
 (gettext)
 
 
