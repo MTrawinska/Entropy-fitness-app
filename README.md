@@ -39,7 +39,10 @@ Vanilla Js, CSS3, HTML5, Django2.2.7, Python 3.5
 
 ### Schemas
 
-UML
+Project layout
 
 ![alt mapping](https://github.com/MTrawinska/Entropy-fitness-app/blob/master/entropy1.png)
+
+Project slicing
+
 ![alt diagram](https://github.com/MTrawinska/Entropy-fitness-app/blob/master/entropy2.png)
