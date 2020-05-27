@@ -34,5 +34,11 @@ według podziału na użytkownika
 ### wersja hiszpanska 
 (gettext)
 
-Requirements: Vanilla Js, CSS3, HTML5, Django2.2.7, Python 3.5
+### Requirements: 
+Vanilla Js, CSS3, HTML5, Django2.2.7, Python 3.5
+
+### Schemas
+
+UML
+
 
