@@ -46,3 +46,7 @@ Project layout
 Project slicing
 
 ![alt diagram](https://github.com/MTrawinska/Entropy-fitness-app/blob/master/entropy2.png)
+
+!CODE ON DEMAND
+
+Interested? Please contact me to see the code
