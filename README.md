@@ -41,4 +41,4 @@ Vanilla Js, CSS3, HTML5, Django2.2.7, Python 3.5
 
 UML
 
-
+[alt mapping](https://github.com/MTrawinska/Entropy-fitness-app/blob/master/entropy1.png)
